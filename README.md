@@ -1,6 +1,6 @@
 # Reaction Miner
 
-## Prequisites.
+## Pre-requisites.
 
 [JDK(Java Developer Toolkit)](https://www.oracle.com/technetwork/java/javase/downloads/jdk13-downloads-5672538.html) >= 11
 `$ java -version`
