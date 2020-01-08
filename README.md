@@ -18,9 +18,9 @@ Extract and note the path.
 
 To run the UI:
 
-`$ javac --module-path path/to/javafx-sdk-13.0.1/lib --add-modules javafx.controls,javafx.fxml App.java `
-`$ javac --module-path path/to/javafx-sdk-13.0.1/lib --add-modules javafx.controls,javafx.fxml SceneController.java `
-`$ java --module-path path/to/javafx-sdk-13.0.1/lib --add-modules javafx.controls,javafx.fxml App `
+`$ javac --module-path path/to/javafx-sdk-13.0.1/lib --add-modules javafx.controls,javafx.fxml App.java `  
+`$ javac --module-path path/to/javafx-sdk-13.0.1/lib --add-modules javafx.controls,javafx.fxml SceneController.java `  
+`$ java --module-path path/to/javafx-sdk-13.0.1/lib --add-modules javafx.controls,javafx.fxml App `  
 
 ## Developer Notes.
 
