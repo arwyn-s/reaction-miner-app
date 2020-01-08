@@ -1,0 +1,27 @@
+#
+12
+Phosphate
+CH
+CH
+CH
+CH
+OH
+CH
+OH
+CH
+OH
+OH
+OH
+12
+0 1 1 WD
+2 1 1 0
+3 1 1 0
+4 2 1 0
+5 2 1 HS
+6 3 1 0
+7 3 1 HS
+8 4 1 0
+9 4 1 WD
+10 6 1 WD
+11 8 1 WD
+8 6 1 0

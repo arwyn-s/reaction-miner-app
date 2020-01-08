@@ -1,0 +1,37 @@
+.scene_container {
+    -fx-background-color: #79a254;
+}
+
+.menubar {
+     -fx-background-color: #707180;
+}
+
+.text-input {
+    -fx-background-color: #cedd58;
+}
+
+.submit-button {
+    -fx-background-color: #404150;
+    -fx-text-fill: #dddddd;
+
+}
+
+.submit-button:hover {
+    -fx-background-color: black;
+}
+
+.scroll-pane {
+    -fx-background-color: #49727e;
+}
+
+.scroll-pane > .viewport {
+    -fx-background-color: transparent;
+}
+
+.text-area {
+    -fx-control-inner-background: #89b2be;
+    -fx-font-family: Consolas;
+}
+.loading-indicator {
+    -fx-progress-color:#505160;
+}
